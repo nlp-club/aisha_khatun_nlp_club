@@ -24,6 +24,7 @@ N.B These resources are taken from the channel #sg_deepdive-nlp and arranged acc
 
 ## Good reads:
 - Marianna Janczak [2:01 PM] : I've just read a great article about the use of RNNs in text generation. Take a look: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Aniket Mitra 11:59 AM https://www.analyticsindiamag.com/8-free-resources-for-beginners-to-learn-natural-language-processing/   keep these resources with you. They are the most popular and best lectures in NLP. After you finish fast.ai course and manage to get some time, you can start going through them.:smiley:
 
 ## Chosen(plus plan):
 - fastai
