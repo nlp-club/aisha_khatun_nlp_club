@@ -29,6 +29,13 @@ N.B These resources are taken from the channel #sg_deepdive-nlp and arranged acc
 A few sentiment analysis notebooks using pytorch, figured might help someone out :smile:
 https://github.com/styluna7/pytorch-sentiment-analysis
 
+## Codes
+- Agata [OR, USA] 3:27 PM
+[Kaggle kernels related to NLP] https://www.kaggle.com/kernels?sortBy=relevance&group=everyone&search=NLP&page=1&pageSize=20
+
+## Dataset
+https://github.com/niderhoff/nlp-datasets
+
 ## Chosen(plus plan):
 - fastai
 - next, learning BERT and XL NET plus kaggle competition
