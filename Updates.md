@@ -14,3 +14,17 @@ Started learning about summarization. (to-be group project!)
 Watched Video 3
 Ran in colab, edited with my small noted
 committed my file in this repo.
+
+## Update 5:
+29/7/19
+Watched video 4
+
+## Update 6:
+30/7/19
+Watched Video 5
+
+## Update 7:
+31/7/19
+Running notebook corresponding to video 4,5
+Will edit and commit.
+
