@@ -28,6 +28,7 @@ N.B These resources are taken from the channel #sg_deepdive-nlp and arranged acc
 - Droid:male-technologist: 8:28 PM
 A few sentiment analysis notebooks using pytorch, figured might help someone out :smile:
 https://github.com/styluna7/pytorch-sentiment-analysis
+- https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
 
 ## Codes
 - Agata [OR, USA] 3:27 PM
@@ -37,5 +38,5 @@ https://github.com/styluna7/pytorch-sentiment-analysis
 https://github.com/niderhoff/nlp-datasets
 
 ## Chosen(plus plan):
-- fastai
+- fastai nlp
 - next, learning BERT and XL NET plus kaggle competition
