@@ -35,3 +35,7 @@ Video 6 and notebook 3b and 4 partially ran (as per the videos)
 Video 7
 notebook 3b and 4 completed!
 
+## Update 10:
+Video 8
+notebook 5-nn-imdb.ipynb
+
