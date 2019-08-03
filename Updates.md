@@ -26,5 +26,12 @@ Watched Video 5
 ## Update 7:
 31/7/19
 Running notebook corresponding to video 4,5
-Will edit and commit.
+Will edit and commit.committed 2/8/19
+
+## Update 8:
+Video 6 and notebook 3b and 4 partially ran (as per the videos)
+
+## Update 9:
+Video 7
+notebook 3b and 4 completed!
 
