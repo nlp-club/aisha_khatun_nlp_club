@@ -19,6 +19,21 @@ N.B These resources are taken from the channel #sg_deepdive-nlp and arranged acc
        - https://www.kaggle.com/yuval6967/toxic-bert-plain-vanila
        - https://www.kaggle.com/abhishek/pytorch-bert-inference
 
+### SusanW 2:46 AM
+Hi guys, during the meeting yesterday @Aisha Khatun asked about my experience in attending the ACL (Association of Computational Linguistic) conference. it was a very intense, eye opening experience due to the amount of activities happening in parrallel, the number of people involved, and the depth of the research being shared. If you are interested, please check out http://www.acl2019.org website. There are links to the tutorials and workshops and also the presentation topics. Here is a list of the tutorials that were offered, and their associated slides. It might come in handy as reference material for your research! I was able to attend 2 tutorials and I found them to be the most helpful out of the whole experience.
+    
+tutorials
+1. Latent Structure Models for NLP     https://deep-spin.github.io/tutorial/acl.pdf
+2. Graph Based Meaning Representations     https://github.com/cfmrp/tutorial/blob/master/slides.pdf
+3. Discourse Processing and Its Applications     https://www.dropbox.com/s/l1fyx5ejvwvsi6l/ACL-19-tutorial-part1.pdf?dl=0
+    https://www.dropbox.com/s/gj3hvij9rno35l8/ACL-19-tutorial-part2.pdf?dl=0
+4. Computational Analysis of Political Text     https://docs.google.com/presentation/d/1Pm2obVYPjruc-zR2URnNVd5ndtAek2wwPn4JpX-Svx8/edit#slide=id.p
+5. Wikipedia as a Resource for Text Analysis and Retrieval     https://drive.google.com/file/d/1V_A_OyJrP969s_WtmIrrdzgr2g6AWVHS/view
+6. Deep Bayesian Natural Language Processing     https://drive.google.com/file/d/1SgNVpspG-m0O_k-_qAbxg-3HSZg3FOec/view
+7. Unsupervised Cross-Lingual Representation Learning     https://docs.google.com/presentation/d/1miPu0hkBFSRTAxP-Psg0xXOvAbVSJPhQXehMQdUI88I/edit
+8. Advances in Argument Mining     http://arg.tech/~chris/acl2019tut/argmining-tut-v4.pdf
+9. Storytelling from Structured Data and Knowledge Graphs     https://drive.google.com/file/d/1HaGCNc6n_sjyGLdaGzAVPvAeT0ZhhL3Q/view
+
 ## Books:
 - Beginners book (brushup?) : NLP with python, spacy documentation.
 
